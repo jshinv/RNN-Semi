@@ -19,3 +19,17 @@
    현재 : Embedding -> LSTM -> Dense, accuracy 80.01%
 
    목표 : 모델링 개선 (46번째 셀)
+   
+4. 토큰화, 모델링 분리
+
+   파일명 :
+
+   ​	01.RNN Semi-Project-Tokenization.ipynb
+
+   ​		- dataset/naver_movie_all.csv 를 토큰화, save폴더에 작업 결과 저장
+
+   ​	02.RNN Semi-Project-Evaluate.ipynb (csv파일 업데이트 없으면 이 작업만 하면됨)
+
+   ​		- save폴더에서 토큰화된 데이터 읽은 후, 모델링
+
+   
