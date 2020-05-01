@@ -12,3 +12,10 @@
 
    폴더명 : datasets
 
+3. 감정 분석 모델링
+
+   파일명 : RNN Semi-Project-team3-local.ipynb
+
+   현재 : Embedding -> LSTM -> Dense, accuracy 80.01%
+
+   목표 : 모델링 개선 (46번째 셀)
